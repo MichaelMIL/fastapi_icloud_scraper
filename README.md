@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-Backed for getting icloud devices locations
+Backed for getting icloud devices locations, statuses, and calendars
 
 ## Getting Started <a name = "getting_started"></a>
 
